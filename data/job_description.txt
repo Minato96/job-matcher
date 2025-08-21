@@ -1,0 +1,14 @@
+Job Title: Data Scientist
+
+We are looking for a Data Scientist to analyze large amounts of raw information to find patterns and help us make smarter decisions. We expect you to be highly analytical with a knack for analysis, math, and statistics.
+
+Responsibilities:
+- Undertake preprocessing of structured and unstructured data
+- Build predictive models and machine-learning algorithms
+- Present information using data visualization techniques
+
+Requirements:
+- Proven experience as a Data Scientist or Data Analyst
+- Experience in data mining
+- Knowledge of SQL and Python; familiarity with Scala, Java or C++ is an asset
+- Experience using business intelligence tools (e.g., Tableau) and data frameworks (e.g., Hadoop)
